@@ -1,16 +1,27 @@
-## Hi there 👋
+# Demir
 
-<!--
-**demiryyurtsever/demiryyurtsever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming BSc Mathematics, Operational Research, Statistics & Economics
+(MORSE) — University of Warwick, Oct 2026.
 
-Here are some ideas to get you started:
+Interested in derivatives pricing, market microstructure, and systematic
+strategy research. Currently working through order-book data collection
+for prediction markets and short-rate model calibration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience:** Garanti BBVA Securities
+(securities & derivatives)
+
+---
+
+### Selected work
+
+**[vasicek-sofr](link)** — Calibration of the Vasicek short-rate model to
+SOFR data via AR(1)/OLS. Zero-coupon bond prices reproduced against
+Treasury yields to within 4%. Extended from the ODE to the full SDE with
+a P-vs-Q measure treatment of the term premium. `Python, pandas, statsmodels`
+
+**[zetamac-stats](link)** — Mental arithmetic drill tool extended with
+distributional and probability questions. `React, PWA`
+
+---
+
+📫 demiryyurtsever@gmail.com · [LinkedIn](https://www.linkedin.com/in/demir-yurtsever-0b609b2b3/)
