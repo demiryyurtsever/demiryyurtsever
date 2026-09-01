@@ -14,10 +14,7 @@ for prediction markets and short-rate model calibration.
 
 ### Selected work
 
-**[vasicek-sofr-calibration](https://github.com/demiryyurtsever/vasicek-sofr-calibration)** — Calibration of the Vasicek short-rate model to
-SOFR data via AR(1)/OLS. Zero-coupon bond prices reproduced against
-Treasury yields to within 4%. Extended from the ODE to the full SDE with
-a P-vs-Q measure treatment of the term premium. `Python, pandas, statsmodels`
+**[vasicek-sofr-calibration](https://github.com/demiryyurtsever/vasicek-sofr-calibration)** — Calibration of the Vasicek short-rate model to SOFR data via AR(1)/OLS. Model-implied yields miss the 1–10y Treasury curve by 18.75% on historical parameters; a single term-premium adjustment cuts the error to 1.14%. `Python, pandas, statsmodels`
 
 ---
 
