@@ -1,6 +1,6 @@
 # Demir
 
-Incoming BSc Mathematics, Operational Research, Statistics & Economics
+BSc Mathematics, Operational Research, Statistics & Economics
 (MORSE) — University of Warwick, Oct 2026.
 
 Interested in derivatives pricing, market microstructure, and systematic
